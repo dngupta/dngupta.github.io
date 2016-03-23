@@ -1,7 +1,12 @@
-body {
-    margin: 60px auto;
-    width: 70%;
-}
+@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+body { 
+	padding-top: 20px; 
+	padding-bottom: 40px; 
+	font-family: 'Merriweather', Georgia, Times; 
+	font-size: 16px; 
+	}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -19,9 +24,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { 
+	font-family: 'Merriweather', Georgia, Times; 
+	font-weight: 700;
 }
 p {
     font-size: 1.5em;
