@@ -15,7 +15,7 @@ body {
 .navbar-wrapper {
   position: absolute;
   top: 0;
-  right: 98;
+  right: 0;
   left: 0;
   z-index: 20;
 }
@@ -31,6 +31,12 @@ body {
 }
 .navbar-wrapper .navbar .container {
   width: auto;
+}
+/* Margin for nav.pull-right */
+.navbar .nav.pull-right {
+	float: right;
+	margin-right: 98px;
+}
 }
 
 
