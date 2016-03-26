@@ -32,11 +32,6 @@ body {
 .navbar-wrapper .navbar .container {
   width: auto;
 }
-/* Margin for nav.pull-right */
-.navbar .nav.pull-right {
-	float: right;
-	margin-right: 98px;
-}
 
 
 /* CUSTOMIZE THE CAROUSEL
