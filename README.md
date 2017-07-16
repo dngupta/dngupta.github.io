@@ -1,2 +1,2 @@
-# /Website for Neha Gupta, PhD
+# Website for Neha Gupta, PhD
 
