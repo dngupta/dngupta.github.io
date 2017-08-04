@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Neha Gupta</title>
+    <link>https://dngupta.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Neha Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Neha Gupta</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Archaeology as Fringe Science: Insights from Post-Colonial India</title>
+      <link>https://dngupta.github.io/talk/fringe-science/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/talk/fringe-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fishers and Farmers in northern Kerala: Preliminary Results from the Northern Kerala Archaeological Project (NorKAP)</title>
+      <link>https://dngupta.github.io/talk/norkap-saa/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/talk/norkap-saa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geographic Visualization as Knowledge Generation in Archaeology</title>
+      <link>https://dngupta.github.io/talk/visualize-knowledge/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/talk/visualize-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing and Navigating Chronology in Large Digital Collections</title>
+      <link>https://dngupta.github.io/talk/visualize-chronology/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/talk/visualize-chronology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aryan Mythology in Indian Archaeology</title>
+      <link>https://dngupta.github.io/talk/strange-science/</link>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/talk/strange-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geovisual Perspectives on Late 20th Century Indian Archaeology: Putting ‘Place’ in Visualization</title>
+      <link>https://dngupta.github.io/talk/visualize-place/</link>
+      <pubDate>Tue, 17 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/talk/visualize-place/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tangled Corpses: Interpreting a Complex Mass Grave at the Parc Safari Cemetery</title>
+      <link>https://dngupta.github.io/talk/tangled-parc-safari/</link>
+      <pubDate>Tue, 23 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/talk/tangled-parc-safari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Making of ‘Long Forgotten’ Mohenjodaro: Archaeology in Colonial India</title>
+      <link>https://dngupta.github.io/talk/field-studies/</link>
+      <pubDate>Thu, 14 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/talk/field-studies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

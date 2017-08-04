@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>National on Neha Gupta</title>
+    <link>https://dngupta.github.io/tags/national/</link>
+    <description>Recent content in National on Neha Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Neha Gupta</copyright>
+    <lastBuildDate>Sat, 08 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/national/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MINA | Map Indian Archaeology</title>
+      <link>https://dngupta.github.io/project/mina/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/project/mina/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
