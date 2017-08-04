@@ -1,1 +1,8 @@
-_site/
+#ignore index built on bootstrap
+index_old.html
+
+#ignore cv built on bootstrap
+cv.html
+
+#ignore _layouts
+_layouts/
