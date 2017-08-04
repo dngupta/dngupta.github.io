@@ -4,11 +4,44 @@ index_old.html
 #ignore cv built on bootstrap
 cv.html
 
+#ignore 404 built on bootstrap
+404_old.html
+
 #ignore _layouts
 _layouts/
+
+#ignore config_old
+config_old.toml/
+
+#ignore _config_old.yml
+_config_old.yml/
 
 #ignore deploy.sh
 deploy.sh
 
 #ignore setup.sh
 setup.sh
+
+#ignore archetypes_old/
+archetypes_old/
+
+#ignore css_old/
+css_old/
+
+#ignore hugo_old/
+hugo_old/
+
+#ignore img_old/
+img_old/
+
+#ignore js_old/
+js_old/
+
+#ignore static_old/
+static_old/
+
+#ignore themes_old/
+themes_old/
+
+#ignore content_old/
+content_old/
