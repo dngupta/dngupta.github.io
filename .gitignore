@@ -11,10 +11,10 @@ cv.html
 _layouts/
 
 #ignore config_old
-config_old.toml/
+config_old.toml
 
 #ignore _config_old.yml
-_config_old.yml/
+_config_old.yml
 
 #ignore deploy.sh
 deploy.sh
