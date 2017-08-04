@@ -6,3 +6,9 @@ cv.html
 
 #ignore _layouts
 _layouts/
+
+#ignore deploy.sh
+deploy.sh
+
+#ignore setup.sh
+setup.sh
