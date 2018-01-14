@@ -11,20 +11,20 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Geographic Visualization in Archaeology</title>
+      <link>https://dngupta.github.io/publication/geoviz/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/publication/geoviz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introduction (Circles of Interaction)</title>
       <link>https://dngupta.github.io/publication/circles/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/publication/circles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geographic Visualization in Archaeology</title>
-      <link>https://dngupta.github.io/publication/geoviz/</link>
-      <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dngupta.github.io/publication/geoviz/</guid>
       <description></description>
     </item>
     
