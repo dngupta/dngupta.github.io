@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Neha Gupta</title>
+    <title>Recent Talks &amp; Workshops on Neha Gupta</title>
     <link>https://dngupta.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Neha Gupta</description>
+    <description>Recent content in Recent Talks &amp; Workshops on Neha Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Neha Gupta</copyright>
+    <copyright>&amp;copy; 2018 Neha Gupta</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Opening Geospatial Humanities: Method and Practice</title>
+      <link>https://dngupta.github.io/talk/workshop-guelph/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/talk/workshop-guelph/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Archaeology as Fringe Science: Insights from Post-Colonial India</title>
