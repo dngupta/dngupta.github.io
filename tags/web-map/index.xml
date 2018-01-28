@@ -16,10 +16,15 @@
       <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/project/mina/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://dngupta.github.io/mina.github.io&#34; target=&#34;_blank&#34;&gt;MINA | Map Indian Archaeology&lt;/a&gt; (opens new window) was launched in August 2016 as part of the Institute on Digital Archaeology: Method and Practice at Michigan State University. The digital project features an interactive web map that shows archaeological field investigations across Independent India. Drawing on the ethos of openness, MINA is built upon open source tools and software code that are appropriately modified for archaeological data.
-&lt;img src=&#34;https://dngupta.github.io/img/minaHome.jpg&#34; alt=&#34;MINA homepage&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://dngupta.github.io/mina.github.io&#34; target=&#34;_blank&#34;&gt;MINA | Map Indian Archaeology&lt;/a&gt; (opens new window) was launched in August 2016 as part of the Institute on Digital Archaeology: Method and Practice at Michigan State University. The digital project features an interactive web map that shows archaeological field investigations across Independent India. Drawing on the ethos of openness, MINA is built upon open source tools and software code that are appropriately modified for archaeological data. Current chronological coverage on the web map focuses on the periods between 1953 and 1960. Location information (geographic coordinates) are accurate to about 1 degree or 100 km. Details of the 2273 investigations include geographic location, place name, year of investigation and investigating institution.&lt;/p&gt;
 
-&lt;p&gt;Current chronological coverage on the web map is limited to the period between 1953 and 1960. Location information (geographic coordinates) are accurate to about 1 degree or 100 km. Clustered markers (a Leaflet library) on the web map present a striking geographic pattern and distribution of archaeological investigations in post-1947 Independent India. Clustering is tied to zoom; therefore, zooming in or out will enable you to examine individual markers and details on each investigation. Details of the 2273 investigations include geographic location, place name, year of investigation and investigating institution. These data were derived from a key source; &lt;em&gt;Indian Archaeology: A Review&lt;/em&gt;, a publication of the Archaeological Survey of India, the national department for archaeology and heritage management. Check out the &lt;a href=&#34;http://dngupta.github.io/mina.github.io&#34; target=&#34;_blank&#34;&gt;web map&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dngupta.github.io/img/minaHome.jpg&#34; alt=&#34;MINA homepage&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Clustered markers (a Leaflet library) on the web map present a striking geographic pattern and distribution of archaeological investigations in post-1947 Independent India. Clustering is tied to zoom; therefore, zooming in or out will enable you to examine individual markers and details on each investigation. These data were derived from &lt;em&gt;Indian Archaeology: A Review&lt;/em&gt;, a key source published by the Archaeological Survey of India, the national department for archaeology and heritage management.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dngupta.github.io/img/minaMarker.jpg&#34; alt=&#34;MINA marker&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&#34;http://dngupta.github.io/mina.github.io&#34; target=&#34;_blank&#34;&gt;web map&lt;/a&gt; (opens new window)&lt;/p&gt;
 </description>
     </item>
     
