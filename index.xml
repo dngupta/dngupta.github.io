@@ -11,15 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Opening Geospatial Humanities: Method and Practice</title>
-      <link>https://dngupta.github.io/talk/workshop-guelph/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dngupta.github.io/talk/workshop-guelph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Circles of Interaction</title>
       <link>https://dngupta.github.io/project/circles-wendat/</link>
       <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
@@ -182,6 +173,15 @@
       <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/talk/strange-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Geographic and Spatial Approaches in the History of Archaeology</title>
+      <link>https://dngupta.github.io/publication/geographic-intro/</link>
+      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/publication/geographic-intro/</guid>
       <description></description>
     </item>
     
