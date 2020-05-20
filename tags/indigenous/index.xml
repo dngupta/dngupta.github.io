@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Neha Gupta</copyright>
-    <lastBuildDate>Sat, 08 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/indigenous/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Visualization Dashboard</title>
+      <link>https://dngupta.github.io/project/dashboards/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/project/dashboards/</guid>
+      <description>&lt;p&gt;Government agencies increasingly share digital data as part of their commitments to Open Government. While well intended, this information is often shared in formats and ways that are not easily understood by non-specialists, Indigenous peoples and members of the general public. They cannot readily use government data to make informed decisions. To this end, UBC Okanagan and &lt;a href=&#34;http://www.opencontext.org&#34; target=&#34;_blank&#34;&gt;Open Context&lt;/a&gt; will develop interactive visualizations of digital archaeological collections that Indigenous peoples and a general audience can use to better understand archaeological heritage, which in turn can support the Province of British Columbia’s commitment to the &lt;em&gt;United Nations Declaration on the Rights of Indigenous Peoples&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The project is funded by the &lt;a href=&#34;https://public-humanities.ok.ubc.ca/&#34; target=&#34;_blank&#34;&gt;UBC Okanagan Public Humanities Impact Award&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Circles of Interaction</title>
@@ -23,18 +35,6 @@
 &lt;p&gt;Moreover, the publication was prepared in collaboration, on equal terms, with the Huron-Wendat Nation. Articles in the &lt;a href=&#34;http://www.ontarioarchaeology.on.ca/page-1767512&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Ontario Archaeology&lt;/em&gt;&lt;/a&gt; volume were selected based on the thematic interests of Wendats who attended the symposium session. Louis Lesage (Huron-Wendat Nation) and Neha Gupta jointly edited the collection. This marks a nuanced but clear shift in the way archaeologists collaborate with Indigenous communities, and can offer a path to transforming Canadian archaeology.&lt;/p&gt;
 
 &lt;p&gt;The volume has been translated and published by Presses de l’Université, Quebec City under the title &lt;em&gt;Études multidisciplinaires sur les liens entre Hurons-Wendat et Iroquoiens du Saint-Laurent&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Visualization Dashboard</title>
-      <link>https://dngupta.github.io/project/dashboards/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dngupta.github.io/project/dashboards/</guid>
-      <description>&lt;p&gt;Government agencies increasingly share digital data as part of their commitments to Open Government. While well intended, this information is often shared in formats and ways that are not easily understood by non-specialists, Indigenous peoples and members of the general public. They cannot readily use government data to make informed decisions. To this end, &lt;a href=&#34;https://ccgs.ok.ubc.ca/&#34; target=&#34;_blank&#34;&gt;UBCO&lt;/a&gt; and &lt;a href=&#34;http://www.opencontext.org&#34; target=&#34;_blank&#34;&gt;Open Context&lt;/a&gt; will develop interactive visualizations of digital archaeological collections that Indigenous peoples and a general audience can use to better understand archaeological heritage, which in turn can support the Province of British Columbia’s commitment to the &lt;em&gt;United Nations Declaration on the Rights of Indigenous Peoples&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The project is funded by the &lt;a href=&#34;https://public-humanities.ok.ubc.ca/&#34; target=&#34;_blank&#34;&gt;UBC Okanagan Public Humanities Impact Award&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
