@@ -12,10 +12,10 @@
     
     <item>
       <title>Visualization Dashboard</title>
-      <link>https://dngupta.github.io/project/dashboards/</link>
+      <link>https://dngupta.github.io/project/visualization/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dngupta.github.io/project/dashboards/</guid>
+      <guid>https://dngupta.github.io/project/visualization/</guid>
       <description>&lt;p&gt;Government agencies increasingly share digital data as part of their commitments to Open Government. While well intended, this information is often shared in formats and ways that are not easily understood by non-specialists, Indigenous peoples and members of the general public. They cannot readily use government data to make informed decisions. To this end, UBC Okanagan and &lt;a href=&#34;http://www.opencontext.org&#34; target=&#34;_blank&#34;&gt;Open Context&lt;/a&gt; will develop interactive visualizations of digital archaeological collections that Indigenous peoples and a general audience can use to better understand archaeological heritage, which in turn can support the Province of British Columbia’s commitment to the &lt;em&gt;United Nations Declaration on the Rights of Indigenous Peoples&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The project is funded by the &lt;a href=&#34;https://public-humanities.ok.ubc.ca/&#34; target=&#34;_blank&#34;&gt;UBC Okanagan Public Humanities Impact Award&lt;/a&gt;.&lt;/p&gt;
@@ -23,35 +23,12 @@
     </item>
     
     <item>
-      <title>Circles of Interaction</title>
-      <link>https://dngupta.github.io/project/circles-wendat/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <title>ODATE: Open Digital Archaeology Textbook Environment</title>
+      <link>https://dngupta.github.io/project/odate/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dngupta.github.io/project/circles-wendat/</guid>
-      <description>&lt;p&gt;Between June 2015 and April 2017, archaeologists worked closely with members of the Huron-Wendat Nation on a historic research project entitled &amp;ldquo;Circles of Interaction: the Wendat and their Neighbours in the Time of Champlain&amp;rdquo;. The project was funded in part by the Social Science and Humanities Research Council (SSHRC), Canada, and facilitated, for the first time, the participation of the Huron-Wendat Nation as an organizer alongside archaeologists at the annual symposium of the Ontario Archaeological Society (OAS). The symposium was held in October 2015 in Midland, Ontario, Canada.&lt;/p&gt;
-
-&lt;p&gt;During the symposium, the Huron-Wendat Nation hosted a day-long session on the relationship between the ancestral Wendats and the people known as the St. Lawrence Iroquoians. The session reflected the deep interest of the Huron-Wendats in their past. Yet until recently, with few exceptions, descendant communities were left out of knowledge creation on their ancestors. Members of descendant communities often have limited chances to engage directly with scholars and heritage professionals. The lead role of the Huron-Wendat Nation in the OAS symposium, therefore, represents a significant step toward addressing colonial practices in Canadian archaeology.&lt;/p&gt;
-
-&lt;p&gt;Moreover, the publication was prepared in collaboration, on equal terms, with the Huron-Wendat Nation. Articles in the &lt;a href=&#34;http://www.ontarioarchaeology.on.ca/page-1767512&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Ontario Archaeology&lt;/em&gt;&lt;/a&gt; volume were selected based on the thematic interests of Wendats who attended the symposium session. Louis Lesage (Huron-Wendat Nation) and Neha Gupta jointly edited the collection. This marks a nuanced but clear shift in the way archaeologists collaborate with Indigenous communities, and can offer a path to transforming Canadian archaeology.&lt;/p&gt;
-
-&lt;p&gt;The volume has been translated and published by Presses de l’Université, Quebec City under the title &lt;em&gt;Études multidisciplinaires sur les liens entre Hurons-Wendat et Iroquoiens du Saint-Laurent&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Health &amp; Social Services for Linguistic Minorities</title>
-      <link>https://dngupta.github.io/project/health-services/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dngupta.github.io/project/health-services/</guid>
-      <description>&lt;p&gt;In Phase 1 of this complex multi-year project, I characterized the spatial relationship between health and social service providers and linguistic-minorities in Montreal, Quebec, Canada. Because the project aimed to address service inequities through training, the first phase of the project centered on identifying where services for English-speakers were lacking.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dngupta.github.io/img/cnurses.jpg&#34;&gt;Availability of Nurses for English-speakers&lt;/a&gt; &lt;em&gt;click for larger view&lt;/em&gt; &lt;img src=&#34;https://dngupta.github.io/img/cnurses.jpg&#34; alt=&#34;Availability of Nurses for English-speakers&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The spatial analysis was necessary to better understand the geographic distribution of services providers across the island. I carefully designed maps for a non-specialist audience to present results. These are samples from a collection of maps that I made for the project.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dngupta.github.io/img/csocial.jpg&#34;&gt;Availability of Social Workers for English-speakers&lt;/a&gt; &lt;em&gt;click for larger view&lt;/em&gt; &lt;img src=&#34;https://dngupta.github.io/img/csocial.jpg&#34; alt=&#34;Availability of Social Workers for English-speakers&#34; /&gt;&lt;/p&gt;
-</description>
+      <guid>https://dngupta.github.io/project/odate/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -75,7 +52,7 @@
     <item>
       <title>Northern Kerala Archaeology Project</title>
       <link>https://dngupta.github.io/project/norkap/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/project/norkap/</guid>
       <description>&lt;p&gt;NorKAP aims to shed light on the changing relationship between fishers and farmers in northern Kerala. Until very recently, our knowledge of the Indian past relied heavily on historic, epigraphic and numismatic sources (Chakrabarti 2003).&lt;/p&gt;
@@ -89,18 +66,41 @@
     </item>
     
     <item>
-      <title>ODATE: Open Digital Archaeology Textbook Environment</title>
-      <link>https://dngupta.github.io/project/odate/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <title>Circles of Interaction</title>
+      <link>https://dngupta.github.io/project/circles-wendat/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dngupta.github.io/project/odate/</guid>
-      <description></description>
+      <guid>https://dngupta.github.io/project/circles-wendat/</guid>
+      <description>&lt;p&gt;Between June 2015 and April 2017, archaeologists worked closely with members of the Huron-Wendat Nation on a historic research project entitled &amp;ldquo;Circles of Interaction: the Wendat and their Neighbours in the Time of Champlain&amp;rdquo;. The project was funded in part by the Social Science and Humanities Research Council (SSHRC), Canada, and facilitated, for the first time, the participation of the Huron-Wendat Nation as an organizer alongside archaeologists at the annual symposium of the Ontario Archaeological Society (OAS). The symposium was held in October 2015 in Midland, Ontario, Canada.&lt;/p&gt;
+
+&lt;p&gt;During the symposium, the Huron-Wendat Nation hosted a day-long session on the relationship between the ancestral Wendats and the people known as the St. Lawrence Iroquoians. The session reflected the deep interest of the Huron-Wendats in their past. Yet until recently, with few exceptions, descendant communities were left out of knowledge creation on their ancestors. Members of descendant communities often have limited chances to engage directly with scholars and heritage professionals. The lead role of the Huron-Wendat Nation in the OAS symposium, therefore, represents a significant step toward addressing colonial practices in Canadian archaeology.&lt;/p&gt;
+
+&lt;p&gt;Moreover, the publication was prepared in collaboration, on equal terms, with the Huron-Wendat Nation. Articles in the &lt;a href=&#34;http://www.ontarioarchaeology.on.ca/page-1767512&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Ontario Archaeology&lt;/em&gt;&lt;/a&gt; volume were selected based on the thematic interests of Wendats who attended the symposium session. Louis Lesage (Huron-Wendat Nation) and Neha Gupta jointly edited the collection. This marks a nuanced but clear shift in the way archaeologists collaborate with Indigenous communities, and can offer a path to transforming Canadian archaeology.&lt;/p&gt;
+
+&lt;p&gt;The volume has been translated and published by Presses de l’Université, Quebec City under the title &lt;em&gt;Études multidisciplinaires sur les liens entre Hurons-Wendat et Iroquoiens du Saint-Laurent&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Health &amp; Social Services for Linguistic Minorities</title>
+      <link>https://dngupta.github.io/project/health-services/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/project/health-services/</guid>
+      <description>&lt;p&gt;In Phase 1 of this complex multi-year project, I characterized the spatial relationship between health and social service providers and linguistic-minorities in Montreal, Quebec, Canada. Because the project aimed to address service inequities through training, the first phase of the project centered on identifying where services for English-speakers were lacking.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dngupta.github.io/img/cnurses.jpg&#34;&gt;Availability of Nurses for English-speakers&lt;/a&gt; &lt;em&gt;click for larger view&lt;/em&gt; &lt;img src=&#34;https://dngupta.github.io/img/cnurses.jpg&#34; alt=&#34;Availability of Nurses for English-speakers&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The spatial analysis was necessary to better understand the geographic distribution of services providers across the island. I carefully designed maps for a non-specialist audience to present results. These are samples from a collection of maps that I made for the project.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dngupta.github.io/img/csocial.jpg&#34;&gt;Availability of Social Workers for English-speakers&lt;/a&gt; &lt;em&gt;click for larger view&lt;/em&gt; &lt;img src=&#34;https://dngupta.github.io/img/csocial.jpg&#34; alt=&#34;Availability of Social Workers for English-speakers&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Parc Safari Burial Detection</title>
       <link>https://dngupta.github.io/project/parc-safari/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/project/parc-safari/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/excavationsatparcsafari/&#34; target=&#34;_blank&#34;&gt;Parc Safari Burial Detection&lt;/a&gt; (opens new window) was a collaboration between scholars in the departments of anthropology and of geography at McGill University and Parc Safari. Parc Safari is a zoological park located in Hemmingford, Quebec, Canada, specializing in African fauna.&lt;/p&gt;
