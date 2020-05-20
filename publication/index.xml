@@ -11,11 +11,29 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>What We See, What We Don’t See: Data Governance, Archaeological Spatial Databases and the Rights of Indigenous Peoples in an Age of Big Data</title>
+      <link>https://dngupta.github.io/publication/bigdata/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/publication/bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Preparing Archaeological Data for Spatial Analysis</title>
       <link>https://dngupta.github.io/publication/preparing-data/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/publication/preparing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Digital Archaeology Textbook and Environment</title>
+      <link>https://dngupta.github.io/publication/textbook/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/publication/textbook/</guid>
       <description></description>
     </item>
     

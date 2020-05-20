@@ -11,9 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>What We See, What We Don’t See: Data Governance, Archaeological Spatial Databases and the Rights of Indigenous Peoples in an Age of Big Data</title>
+      <link>https://dngupta.github.io/publication/bigdata/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/publication/bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Preparing Archaeological Data for Spatial Analysis</title>
       <link>https://dngupta.github.io/publication/preparing-data/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/publication/preparing-data/</guid>
       <description></description>
@@ -35,6 +44,15 @@
       <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/talk/spatial-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Digital Archaeology Textbook and Environment</title>
+      <link>https://dngupta.github.io/publication/textbook/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/publication/textbook/</guid>
       <description></description>
     </item>
     
@@ -143,6 +161,18 @@
     </item>
     
     <item>
+      <title>Visualization Dashboard</title>
+      <link>https://dngupta.github.io/project/visualization/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/project/visualization/</guid>
+      <description>&lt;p&gt;Government agencies increasingly share digital data as part of their commitments to Open Government. While well intended, this information is often shared in formats and ways that are not easily understood by non-specialists, Indigenous peoples and members of the general public. They cannot readily use government data to make informed decisions. To this end, UBCO and &lt;a href=&#34;http://www.opencontext.org&#34; target=&#34;_blank&#34;&gt;Open Context&lt;/a&gt; will develop interactive visualizations of digital archaeological collections that Indigenous peoples and a general audience can use to better understand archaeological heritage, which in turn can support the Province of British Columbia’s commitment to the &lt;em&gt;United Nations Declaration on the Rights of Indigenous Peoples&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The project is funded by the &lt;a href=&#34;https://public-humanities.ok.ubc.ca/2020/03/19/2020-public-humanities-impact-awards/&#34; target=&#34;_blank&#34;&gt;UBC Okanagan Public Humanities Impact Award&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Archaeology as Fringe Science: Insights from Post-Colonial India</title>
       <link>https://dngupta.github.io/talk/fringe-science/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
@@ -158,34 +188,6 @@
       
       <guid>https://dngupta.github.io/talk/norkap-saa/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Geographic Visualization as Knowledge Generation in Archaeology</title>
-      <link>https://dngupta.github.io/talk/visualize-knowledge/</link>
-      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dngupta.github.io/talk/visualize-knowledge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualizing and Navigating Chronology in Large Digital Collections</title>
-      <link>https://dngupta.github.io/talk/visualize-chronology/</link>
-      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dngupta.github.io/talk/visualize-chronology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geographic Visualization in Archaeology</title>
-      <link>https://dngupta.github.io/publication/geoviz/</link>
-      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dngupta.github.io/publication/geoviz/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://dngupta.github.io/img/geoviz9.png&#34;&gt;Cube with three criteria&lt;/a&gt; &lt;em&gt;click for larger view&lt;/em&gt;&lt;img src=&#34;https://dngupta.github.io/img/geoviz9.png&#34; alt=&#34;Cube with three criteria&#34; /&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

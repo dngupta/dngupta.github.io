@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Neha Gupta</title>
+    <link>https://dngupta.github.io/publication_types/5/</link>
+    <description>Recent content in 5 on Neha Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Neha Gupta</copyright>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/5/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Digital Archaeology Textbook and Environment</title>
+      <link>https://dngupta.github.io/publication/textbook/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/publication/textbook/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

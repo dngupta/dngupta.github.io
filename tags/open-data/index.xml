@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Data on Neha Gupta</title>
+    <link>https://dngupta.github.io/tags/open-data/</link>
+    <description>Recent content in Open Data on Neha Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Neha Gupta</copyright>
+    <lastBuildDate>Sat, 08 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/open-data/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Visualization Dashboard</title>
+      <link>https://dngupta.github.io/project/visualization/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/project/visualization/</guid>
+      <description>&lt;p&gt;Government agencies increasingly share digital data as part of their commitments to Open Government. While well intended, this information is often shared in formats and ways that are not easily understood by non-specialists, Indigenous peoples and members of the general public. They cannot readily use government data to make informed decisions. To this end, UBCO and &lt;a href=&#34;http://www.opencontext.org&#34; target=&#34;_blank&#34;&gt;Open Context&lt;/a&gt; will develop interactive visualizations of digital archaeological collections that Indigenous peoples and a general audience can use to better understand archaeological heritage, which in turn can support the Province of British Columbia’s commitment to the &lt;em&gt;United Nations Declaration on the Rights of Indigenous Peoples&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The project is funded by the &lt;a href=&#34;https://public-humanities.ok.ubc.ca/2020/03/19/2020-public-humanities-impact-awards/&#34; target=&#34;_blank&#34;&gt;UBC Okanagan Public Humanities Impact Award&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
