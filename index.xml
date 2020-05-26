@@ -6,7 +6,7 @@
     <description>Recent content in Neha Gupta on Neha Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Neha Gupta</copyright>
+    <copyright>&amp;copy; 2020 Neha Gupta</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/project/visualization/</guid>
-      <description>&lt;p&gt;Government agencies increasingly share digital data as part of their commitments to Open Government. While well intended, this information is often shared in formats and ways that are not easily understood by non-specialists, Indigenous peoples and members of the general public. They cannot readily use government data to make informed decisions. To this end, UBC Okanagan and &lt;a href=&#34;http://www.opencontext.org&#34; target=&#34;_blank&#34;&gt;Open Context&lt;/a&gt; will develop interactive visualizations of digital archaeological collections that Indigenous peoples and a general audience can use to better understand archaeological heritage, which in turn can support the Province of British Columbia’s commitment to the &lt;em&gt;United Nations Declaration on the Rights of Indigenous Peoples&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Government agencies increasingly share digital data as part of their commitments to Open Government. While well intended, this information is often shared in formats and ways that are not easily understood by non-specialists, Indigenous peoples and members of the general public. They cannot readily use government data to make informed decisions. To this end, UBC Okanagan and &lt;a href=&#34;http://www.opencontext.org&#34; target=&#34;_blank&#34;&gt;Open Context&lt;/a&gt; will develop a visualization dashboard of digital archaeological collections that Indigenous peoples and a general audience can use to better understand archaeological heritage. Visualization dashboards summarize information, and allow navigation of large volumes of data. These tools can implemented and developed for a range of digital archaeological collections. Preliminary research developed a chronology filter, available here: &lt;a href=&#34;https://dngupta.github.io/datavis/makeChart&#34; target=&#34;_blank&#34;&gt;https://dngupta.github.io/datavis/makeChart&lt;/a&gt;. The filter has been implemented into Open Context.&lt;/p&gt;
 
 &lt;p&gt;The project is funded by the &lt;a href=&#34;https://public-humanities.ok.ubc.ca/&#34; target=&#34;_blank&#34;&gt;UBC Okanagan Public Humanities Impact Award&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -60,7 +60,7 @@
     </item>
     
     <item>
-      <title>Open Digital Archaeology Textbook and Environment</title>
+      <title>Open Digital Archaeology Textbook Environment</title>
       <link>https://dngupta.github.io/publication/textbook/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -83,6 +83,15 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/talk/dismantle-colonialism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opening Geospatial Humanities: Method and Practice</title>
+      <link>https://dngupta.github.io/talk/workshop-guelph/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dngupta.github.io/talk/workshop-guelph/</guid>
       <description></description>
     </item>
     
@@ -147,22 +156,6 @@
       
       <guid>https://dngupta.github.io/publication/geoviz/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://dngupta.github.io/img/geoviz9.png&#34;&gt;Cube with three criteria&lt;/a&gt; &lt;em&gt;click for larger view&lt;/em&gt;&lt;img src=&#34;https://dngupta.github.io/img/geoviz9.png&#34; alt=&#34;Cube with three criteria&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Northern Kerala Archaeology Project</title>
-      <link>https://dngupta.github.io/project/norkap/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dngupta.github.io/project/norkap/</guid>
-      <description>&lt;p&gt;NorKAP aims to shed light on the changing relationship between fishers and farmers in northern Kerala. Until very recently, our knowledge of the Indian past relied heavily on historic, epigraphic and numismatic sources (Chakrabarti 2003).&lt;/p&gt;
-
-&lt;p&gt;Since the 1980s, Indian archaeologists have increasingly thought of archaeology as a means of generating information regarding Indian history and have thus sought to further the collection and documentation of archaeological data across India. These interests coincided with the ramping up of natural resource extraction initiatives and the increasing frequency of road building, and the construction of power-generating plants and dams. Large-scale building projects often resulted in the displacement of local communities and the destruction of archaeological and historical sites. NorKAP, thus, seeks to provide scholars with fresh insight into the archaeology of Kerala.&lt;/p&gt;
-
-&lt;p&gt;The project brings together archival collections, published works, alongside archaeological field investigations and remote sensing technologies to gain insight on settlement patterns, as well as change and continuity within the Bharathapuzha River Valley.&lt;/p&gt;
-
-&lt;p&gt;Located between the Arabian Sea and the Western Ghats mountain range, the Bharathapuzha River Valley is characterized by slightly rolling uplands and plateaus that descend sometimes dramatically to the coastal plains. This region has witnessed rapid economic, environmental, social and political change over the past five decades that has impacted the pattern and distribution of villages, towns and cities. Yet the history of settlement and the relationship between towns and villages in the uplands and those in the coastal plains is not well understood. NorKAP begins to address this oversight and will expand and deepen our understanding of settlement history in northern Kerala.&lt;/p&gt;
 </description>
     </item>
     

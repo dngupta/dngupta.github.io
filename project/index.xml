@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Neha Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Neha Gupta</copyright>
+    <copyright>&amp;copy; 2020 Neha Gupta</copyright>
     <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/project/visualization/</guid>
-      <description>&lt;p&gt;Government agencies increasingly share digital data as part of their commitments to Open Government. While well intended, this information is often shared in formats and ways that are not easily understood by non-specialists, Indigenous peoples and members of the general public. They cannot readily use government data to make informed decisions. To this end, UBC Okanagan and &lt;a href=&#34;http://www.opencontext.org&#34; target=&#34;_blank&#34;&gt;Open Context&lt;/a&gt; will develop interactive visualizations of digital archaeological collections that Indigenous peoples and a general audience can use to better understand archaeological heritage, which in turn can support the Province of British Columbia’s commitment to the &lt;em&gt;United Nations Declaration on the Rights of Indigenous Peoples&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Government agencies increasingly share digital data as part of their commitments to Open Government. While well intended, this information is often shared in formats and ways that are not easily understood by non-specialists, Indigenous peoples and members of the general public. They cannot readily use government data to make informed decisions. To this end, UBC Okanagan and &lt;a href=&#34;http://www.opencontext.org&#34; target=&#34;_blank&#34;&gt;Open Context&lt;/a&gt; will develop a visualization dashboard of digital archaeological collections that Indigenous peoples and a general audience can use to better understand archaeological heritage. Visualization dashboards summarize information, and allow navigation of large volumes of data. These tools can implemented and developed for a range of digital archaeological collections. Preliminary research developed a chronology filter, available here: &lt;a href=&#34;https://dngupta.github.io/datavis/makeChart&#34; target=&#34;_blank&#34;&gt;https://dngupta.github.io/datavis/makeChart&lt;/a&gt;. The filter has been implemented into Open Context.&lt;/p&gt;
 
 &lt;p&gt;The project is funded by the &lt;a href=&#34;https://public-humanities.ok.ubc.ca/&#34; target=&#34;_blank&#34;&gt;UBC Okanagan Public Humanities Impact Award&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -103,11 +103,11 @@
       <pubDate>Thu, 08 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>https://dngupta.github.io/project/parc-safari/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/excavationsatparcsafari/&#34; target=&#34;_blank&#34;&gt;Parc Safari Burial Detection&lt;/a&gt; (opens new window) was a collaboration between scholars in the departments of anthropology and of geography at McGill University and Parc Safari. Parc Safari is a zoological park located in Hemmingford, Quebec, Canada, specializing in African fauna.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/excavationsatparcsafari/&#34; target=&#34;_blank&#34;&gt;Parc Safari Burial Detection&lt;/a&gt; (opens new window) was a collaboration between scholars in the departments of anthropology and of geography at McGill University and Parc Safari. Parc Safari is a zoological park located in Hemmingford, Quebec, Canada, specializing in African fauna. The team collected information on the locations of graves, the dates that graves were created and the occupants of graves was not available, a situation that is similar to clandestine graves created to conceal human rights abuses. The cemetery therefore offered a real-world analogue for scholars to develop tools and technologies to facilitate burial detection and documentation.&lt;/p&gt;
 
-&lt;p&gt;Scholars were involved in detecting, excavating and documenting the graves of several animals in the zoo&amp;rsquo;s cemetery. As part of an archaeological field school, undergraduate and graduate students carefully excavated the grave of a watus. The watusi is a large-horned cow typically found in Africa.&lt;/p&gt;
+&lt;p&gt;As part of an archaeological field school, undergraduate and graduate students carefully excavated the grave of a watusi. Watusi is a large-horned cow typically found in Africa.&lt;/p&gt;
 
-&lt;p&gt;2.5D Model alongside Photo of Watusi Grave &lt;img src=&#34;https://dngupta.github.io/img/parc_3d&amp;amp;photo.jpg&#34; alt=&#34;2.5D Model alongside Photo of Watusi Grave&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;2.5D Model of Watusi Grave &lt;img src=&#34;https://dngupta.github.io/img/parc-3d.jpg&#34; alt=&#34;2.5D Model of Watusi Grave&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Students documented the excavation using traditional notebooks, digital photography, as well as a total station. High-precision data collected on the total station were processed in ArcGIS, a GIS software. The images below are a 2.5D model of the grave, and the watusi&amp;rsquo;s skeletal remains within it. Such representations can enable insights into burial practices.&lt;/p&gt;
 
