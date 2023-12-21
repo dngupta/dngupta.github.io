@@ -1,50 +1,50 @@
 ---
 # Display name
-title: 吳健雄
+title: Neha Gupta
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Neha
+last_name: Gupta
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor, Anthropology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of British Columbia, Okanagan
+    url: https://ok.ubc.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include digital and geospatial methods, geovisualization, data governance, archaeology and cultural heritage.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital and Geospatial Methods
+  - Postcolonial, decolonial, anti-colonial and Indigenous studies of heritage
+  - Archaeology in India and Canada
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD Anthropology
+      institution: McGill University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc GIS and Spatial Analysis in Archaeology
+      institution: University College London
+      year: 2002
+    - course: BSc (Hons.) Archaeological Sciences
+      institution: University of Toronto
+      year: 2001
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,16 +96,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/archaeomap
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.ca/citations?user=p7sfYG8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dngupta
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -120,5 +120,4 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am Assistant Professor in Anthropology at The University of British Columbia. My research programme examines and addresses geospatial and digital methods in anti-colonial and Indigenous studies of heritage (including archaeology). My research interests are geovisualization and GIS, place-based heritage, data practice, community governance of data, anti-racism and archaeology in India and Canada. I build and expand on these interests through DARE| Digital Archaeology Research Environment, a Canada Foundation for Innovation funded laboratory at UBC Okanagan.{style="text-align: justify;"}
