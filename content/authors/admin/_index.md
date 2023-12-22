@@ -57,7 +57,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:neha.gupta at ubc dot ca'
+    link: 'mailto:neha dot gupta at ubc dot ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/archaeomap
@@ -72,7 +72,7 @@ social:
     link: https://github.com/dngupta
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://ca.linkedin.com/in/neha-gupta-ph-d-28b53a144 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
