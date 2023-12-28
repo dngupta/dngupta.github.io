@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: NEHA GUPTA # Website name
+title: Neha Gupta # Website name
 baseURL: 'https://github.com/dngupta' # Website URL
 
 ############################
