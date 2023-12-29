@@ -42,6 +42,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    - block: collection
+    content:
+      title: Teaching
+      text: |-
+        **Course syllabi available**
+        1. Digital Arts and Humanities Seminar (Graduate level)
+        2. Introduction to World Archaeology (100-level)
+        3. Archaeological Inquiry & Practice (200-level)
+        4. Digital Methods in Archaeology & Heritage (300-level)
+        5. Settling Down: An Archaeology of Early State Societies (300-level)
+        6. Digital Anthropology (400-level)
+        7. Introduction to Geographic Information Systems (200-level)
+        8. Scientific Applications in Archaeology (400-level)
+    design:
+      columns: '2'
+      view: card
   - block: collection
     id: featured
     content:
@@ -84,10 +100,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Data Governance
+          tag: Data Governance
+        - name: Heritage
+          tag: Heritage
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -125,20 +141,19 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: ''
+      phone: ''
+      appointment_url: ''
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: ''
+        city: ''
+        region: ''
+        postcode: ''
+        country: ''
+        country_code: ''
+      directions: ''
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '37.4275'
