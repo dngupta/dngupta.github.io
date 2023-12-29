@@ -138,19 +138,6 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: ''
-      phone: ''
-      appointment_url: ''
-      address:
-        street: ''
-        city: ''
-        region: ''
-        postcode: ''
-        country: ''
-        country_code: ''
-      directions: ''
-      office_hours:
-        - ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '37.4275'
