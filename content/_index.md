@@ -55,9 +55,6 @@ sections:
         6. Digital Anthropology (400-level)
         7. Introduction to Geographic Information Systems (200-level)
         8. Scientific Applications in Archaeology (400-level)
-    design:
-      columns: '2'
-      view: card
   - block: collection
     id: featured
     content:
