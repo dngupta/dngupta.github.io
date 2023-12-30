@@ -114,13 +114,13 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="research" >}}
     design:
       columns: '1'
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks & Workshops
       filters:
         folders:
           - event
@@ -138,7 +138,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Get in touch for preprints or copies of artices. Email me: neha dot gupta at ubc dot ca
+        Get in touch for preprints or copies of artices. Email me: neha(dot)gupta(at)ubc(dot)ca
       # Contact (add or remove contact options as necessary)
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       # Automatically link email and phone or display as text?

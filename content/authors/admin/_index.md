@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Neha Gupta
+title: NEHA GUPTA
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -57,7 +57,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:neha dot gupta at ubc dot ca'
+    link: 'mailto:neha(dot)gupta(at)ubc(dot)ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/archaeomap
