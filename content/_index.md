@@ -101,6 +101,8 @@ sections:
           tag: Data Governance
         - name: Heritage
           tag: Heritage
+        - name: Geospatial & Digital
+          tag: geospatial digital
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -136,19 +138,12 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Get in touch for preprints or copies of artices. Email me: neha dot gupta at ubc dot ca
       # Contact (add or remove contact options as necessary)
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
