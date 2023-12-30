@@ -114,7 +114,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="research" resize_options="600x" >}}
+        {{< gallery album="research" resize_options="500x300" >}}
     design:
       columns: '1'
   - block: collection
