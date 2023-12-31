@@ -1,0 +1,35 @@
+---
+title: 'What We See, What We Don’t See: Data Governance, Archaeological Spatial Databases
+  and the Rights of Indigenous Peoples in an Age of Big Data'
+authors:
+- Neha Gupta
+- Sue Blair
+- Ramona Nicholas
+date: '2020-02-01'
+publishDate: '2023-12-30T22:14:57.221743Z'
+publication_types:
+- article-journal
+publication: '*Journal of Field Archaeology*'
+doi: 10.1080/00934690.2020.1713969
+abstract: Archaeological spatial databases have the potential to enable deep insights
+  into human history. These compilations of data are at the interface of data management
+  and data visualization. Yet issues of data governance such as the nature, management,
+  quality, ownership, security, and accessibility of archaeological spatial databases
+  are under examined in archaeology, a situation that can aﬀect data intensive methods
+  and “big” data approaches. Data governance including laws and policies associated
+  with data have bearing on archaeological practices which, in turn, can impact map
+  visualizations and subsequent decision-making. With the growth of the geospatial
+  web and Web 2.0 technologies, there are increasing opportunities for archaeologists
+  and the general public to collect and engage with digital archaeological data. In
+  Canada, greater numbers of specialists from diﬀerent sectors (research and education,
+  government, private companies) now accumulate, store, and process digital archaeological
+  data. We draw from the OCAP® (ownership, control, access, possession) principles
+  to shed light on data governance in archaeology, with a focus on archaeological
+  spatial databases in Canadian archaeology. In this context, we draw attention to
+  the rights of Indigenous peoples, the legal and policy issues associated with archaeological
+  spatial databases, and a need for greater engagement with Indigenous data governance
+  principles.
+links:
+- name: URL
+  url: https://www.tandfonline.com/doi/full/10.1080/00934690.2020.1713969
+---
