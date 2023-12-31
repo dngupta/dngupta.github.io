@@ -1,0 +1,34 @@
+---
+title: The CARE Principles and the Reuse, Sharing, and Curation of Indigenous Data
+  in Canadian Archaeology
+authors:
+- Neha Gupta
+- Andrew Martindale
+- Kisha Supernant
+- Michael Elvidge
+date: '2023-02-01'
+publishDate: '2023-12-30T22:14:57.305095Z'
+publication_types:
+- article-journal
+publication: '*Advances in Archaeological Practice*'
+doi: 10.1017/aap.2022.33
+abstract: Reuse and sharing of archaeological data are tied to ethics in data practice,
+  research design, and the rights of Indigenous peoples in decision-making about their
+  heritage. In this article, the authors discuss how the CARE (Collective beneﬁt,
+  Authority to control, Responsibility, and Ethics) principles and Indigenous data
+  governance create intellectual space for archaeological research. We show how archaeologists
+  can use this framework to highlight hidden costs and labor associated with the “data
+  ecosystem,” which are often borne by Indigenous nations and communities. The CARE
+  framework gives voice to Indigenous peoples’ concerns around data sharing, curation,
+  and reuse; ways we can redress these issues; and strategies that facilitate Indigenous
+  nations and communities in deriving collective beneﬁt from research. In archaeology,
+  these efforts include greater work on heritage legislation and policy, repositioning
+  Indigenous peoples as active stewards of their data, and building capacity in digital
+  methods and ethical data practice. Each Indigenous nation and community has its
+  own interests, values, and protocols, and we suggest paths to bring data practice
+  into alignment with the CARE framework.
+links:
+- name: URL
+  url: 
+    https://www.cambridge.org/core/product/identifier/S232637682200033X/type/journal_article
+---
