@@ -2,7 +2,7 @@
 title: Health & Social Services for Linguistic Minorities in Quebec
 summary: The Training and Human Resources Development Project at McGill University aimed to address inequalities in the availability of health and social services for linguistic minorities in Quebec, Canada.
 tags:
-  - Geospatial & Digital
+  - Geospatial Digital
 date: '2017-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -102,7 +102,7 @@ sections:
         - name: Heritage
           tag: Heritage
         - name: Geospatial & Digital
-          tag: Geospatial & Digital
+          tag: Geospatial Digital
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
