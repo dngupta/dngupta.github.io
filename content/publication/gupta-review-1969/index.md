@@ -3,7 +3,7 @@ title: 'Review: L. Jane, McMillan, Truth and Conviction: Donald Marshall Jr. and
   Mi’kmaw Quest for Justice'
 authors:
 - Neha Gupta
-date: '1969-12-01'
+date: '2019-12-01'
 publishDate: '2023-12-30T22:14:57.254875Z'
 publication_types:
 - article-journal

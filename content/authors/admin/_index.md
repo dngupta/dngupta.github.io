@@ -1,6 +1,6 @@
 ---
 # Display name
-title: NEHA GUPTA
+title: Neha Gupta
 
 # Name pronunciation (optional)
 name_pronunciation: ''
