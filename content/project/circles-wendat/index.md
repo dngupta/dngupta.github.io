@@ -12,7 +12,7 @@ image:
   caption: Multidisciplinary Investigations into Huron-Wendat and St. Lawrence Iroquoian Connections, special issue of Ontario Archaeology
   focal_point: Smart
 
-links: ''
+links: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -26,4 +26,4 @@ url_video: ''
 slides: ""
 ---
 
-Led by Dr Alicia Hawkins (University of Toronto), the project culminated in the publication of conference proceedings in a special issue of [*Ontario Archaeology* (Volume 96)] (https://ontarioarchaeology.org/resources/publications-2/ontario-archaeology/ontario-archaeology-2010-2019/ontario-archaeology-oa096-2016/)
+Led by Dr Alicia Hawkins (University of Toronto), the project culminated in the publication of conference proceedings in a special issue of 
