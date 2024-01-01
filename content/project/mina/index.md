@@ -6,14 +6,14 @@ tags:
 date: '2017-07-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://dngupta.github.io/mina.github.io
+external_link: 'http://dngupta.github.io/mina.github.io'
 
 image:
   caption: Photo by Neha Gupta
   focal_point: Smart
 
 links: 
-url_code: ''
+url_code: 'https://github.com/dngupta/mina.github.io'
 url_pdf: ''
 url_slides: ''
 url_video: ''

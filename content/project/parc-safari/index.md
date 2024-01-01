@@ -14,7 +14,7 @@ image:
   
 links: 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://link.springer.com/article/10.1007/s11759-013-9225-4'
 url_slides: ''
 url_video: ''
 
@@ -29,4 +29,6 @@ slides: ""
 Parc Safari Burial Detection was a collaboration between scholars in the departments of anthropology and of geography at McGill University and Parc Safari. Parc Safari is a zoological park located in Hemmingford, Quebec, Canada, specializing in African fauna. Information on the precise location of graves, the date that graves were created and the occupants of graves was not available, and this is a situation similar to clandestine graves created to conceal human rights abuses. The cemetery therefore offered a real-world analogue for scholars to develop tools and technologies to facilitate burial detection and documentation.
 
 As part of an archaeological field school, undergraduate and graduate students carefully excavated the grave of a watusi. Watusi is a large-horned cow typically found in Africa. Students documented the excavation using traditional notebooks, digital photography, as well as a total station. High-precision data collected on the total station were processed in ArcGIS, a GIS software. The images show a 2.5D model of the grave, and the watusi's skeletal remains within it. Such representations can enable insights into burial practices.
+
+Part of this study was published in [Local Communities, National Governments and Forensic and Archaeological Investigations of Human Rights Violations](http://doi.org/10.1007/s11759-013-9225-4) 
 

@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links: 
-url_code: ''
+url_code: 'https://github.com/o-date/draft'
 url_pdf: ''
 url_slides: ''
 url_video: ''

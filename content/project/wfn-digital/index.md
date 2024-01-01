@@ -14,7 +14,7 @@ image:
 
 links: 
 url_code: ''
-url_pdf: ''
+url_pdf: 'http://hdl.handle.net/2429/83410'
 url_slides: ''
 url_video: ''
 
@@ -26,4 +26,6 @@ url_video: ''
 slides: ""
 ---
 
-Through this fellowship, Nancy Bonneau (Westbank First Nation Archaeology) and Dr Neha Gupta (UBC Okanagan) develop a Web-based map that enables engagement and interaction with digital heritage items in Westbank's possession. 
+Through this fellowship, Nancy Bonneau (Westbank First Nation Archaeology) and Dr Neha Gupta (UBC Okanagan) develop a Web-based map that enables engagement and interaction with digital heritage items in Westbank's possession. These community-driven efforts are part of Westbank First Nation Archaeology's broader aims to monitor, preserve and care for heritage within [Westbank First Nation's](https://www.wfn.ca/){:target="_blank"} area of responsibility and build community capacity in digital methods.
+
+The collaboration is funded by the UBC Okanagan Public Humanities Joint Fellowship and the Social Sciences and Humanities Research Council, Canada. For more, read our article, [Connecting Past and Present: Enacting Indigenous Data Governance Principles in Westbank First Nation's Archaeology and Digital Heritage](https://link.springer.com/10.1007/s11759-022-09466-x){:target="_blank"}.
