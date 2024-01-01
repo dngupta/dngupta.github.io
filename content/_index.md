@@ -51,8 +51,9 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
-      view: card
+      columns: '1'
+      view: showcase
+      flip_alt_rows: true
   - block: collection
     content:
       title: Recent Publications
@@ -125,7 +126,8 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Get in touch for preprints or copies of artices. Email me: neha(dot)gupta(at)ubc(dot)ca
+        Get in touch for preprints or copies of artices. 
+        Email me: neha(dot)gupta(at)ubc(dot)ca
       # Contact (add or remove contact options as necessary)
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       # Automatically link email and phone or display as text?

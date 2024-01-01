@@ -6,8 +6,8 @@ title: Neha Gupta
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Neha
-last_name: Gupta
+first_name: 
+last_name: 
 
 # Status emoji
 status:
@@ -84,5 +84,5 @@ social:
 highlight_name: true
 ---
 
-I am Assistant Professor in Anthropology at The University of British Columbia. My research programme examines and addresses geospatial and digital methods in anti-colonial and Indigenous studies of heritage (including archaeology). My research interests are geovisualization and GIS, place-based heritage, data practice, community governance of data, anti-racism and archaeology in India and Canada. I build and expand on these interests through DARE| Digital Archaeology Research Environment, a Canada Foundation for Innovation laboratory at UBC Okanagan.
+I am Assistant Professor in Anthropology at The University of British Columbia. My research programme examines and addresses geospatial and digital methods in anti-colonial and Indigenous studies of heritage (including archaeology). My research interests are geovisualization and GIS, place-based heritage, data practice, community governance of data, anti-racism and archaeology in India and Canada. I build and expand on these interests through DARE | Digital Archaeology Research Environment, a Canada Foundation for Innovation laboratory at UBC Okanagan.
 {style="text-align: justify;"}
