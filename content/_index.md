@@ -126,7 +126,6 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Get in touch for preprints or copies of artices. 
         Email me: neha(dot)gupta(at)ubc(dot)ca
       # Contact (add or remove contact options as necessary)
       # Choose a map provider in `params.yaml` to show a map from these coordinates

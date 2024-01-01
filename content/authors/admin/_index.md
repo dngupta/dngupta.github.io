@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Neha Gupta
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: 
-last_name: 
+first_name: Neha
+last_name: Gupta
 
 # Status emoji
 status:
