@@ -12,12 +12,12 @@ address:
   postcode: 
   country: United States
 
-summary: Workshop for NADAC participants on pathways to collaborate on research projects and publications.
+summary: Workshop for Networking Archaeological Data And Communities (NADAC) participants on pathways to collaborate on research projects and publications.
 abstract: 'This workshop will aim to draft pathways to collaborate on individual research projects and publication with relevant community stakeholders, especially those with indigenous, BIPOC, low-incoming, diaspora, refugee, and other underserved communities, where appropriate.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-01-201T13:00:00Z'
+date: '2024-01-20T13:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 

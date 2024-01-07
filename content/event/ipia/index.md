@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Canada
 
-summary: 
+summary: Invited speaker for Institute for Prairie and Indigenous Archaeology (IPIA) Speaker Series, 2024.
 abstract: ''
 
 # Talk start and end times.

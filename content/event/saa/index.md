@@ -12,7 +12,7 @@ address:
   postcode: 
   country: United States
 
-summary: 
+summary: Invited Discussant on Forum for the Society for American Archaeology meetings, 2024
 abstract: 'This forum will discuss whether archaeology needs a controlled vocabulary. Controlled vocabularies are agreed, dynamic sets of single- or multiple-word phrases used as key research terms. These exist for other disciplines, including psychology, chemistry and astronomy, with agreed sets of standardized keywords for journal articles.'
 
 # Talk start and end times.
