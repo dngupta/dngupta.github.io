@@ -3,7 +3,7 @@ title: Parc Safari Burial Detection
 summary: The project aimed to develop tools and technologies in the detection of clandestine graves at the Parc Safari animal cemetery.
 tags:
   - Geospatial Digital
-date: '2017-04-27T00:00:00Z'
+date: '2010-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

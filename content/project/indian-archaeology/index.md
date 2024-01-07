@@ -3,7 +3,7 @@ title: Practice of Indian Archaeology
 summary: A study of the practice of Indian archaeology as part of my doctoral research. Indian archaeology is neither evenly distributed nor uniformly practiced over time. 
 tags:
   - Heritage
-date: '2016-04-27T00:00:00Z'
+date: '2012-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

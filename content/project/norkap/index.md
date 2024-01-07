@@ -3,7 +3,7 @@ title: Northern Kerala Archaeology Project
 summary: Northern Kerala Archaeology Project, NorKAP for short, is a collaboration with the University of Kerala. The project, led by Dr Neha Gupta and Dr Rajesh SV (Kerala) examines long-term change in the social and political organization of past societies in the Bharathapuzha River Valley in northern Kerala. Preliminary results were presented at the Society for American Archaeology meetings in April 2017.
 tags:
   - Heritage
-date: '2017-01-27T00:00:00Z'
+date: '2017-09-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

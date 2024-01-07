@@ -3,7 +3,7 @@ title: Social and Political Factors in Indian archaeology
 summary: A study of archaeology in Sanghol, Punjab, to highlight the influence of social and political factors on the interpretation of archaeological data and the preservation of cultural heritage.
 tags:
   - Heritage
-date: '2022-04-27T00:00:00Z'
+date: '2012-07-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
