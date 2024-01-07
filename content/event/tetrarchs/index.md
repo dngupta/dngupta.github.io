@@ -12,7 +12,7 @@ address:
   postcode: 
   country: United Kingdom
 
-summary: 
+summary: Invited speaker for Transforming Data Reuse in Archaeology (TETRARCHs) seminar series on "What can data do for us" 
 abstract: ''
 
 # Talk start and end times.
