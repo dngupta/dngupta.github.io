@@ -1,5 +1,5 @@
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
-Neha's test website on Hugo Academic
+Neha's website on Hugo Academic
 
 
 <!--START_SECTION:news-->
