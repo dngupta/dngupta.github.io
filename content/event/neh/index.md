@@ -4,12 +4,12 @@ title: Decolonizing Data
 event: Networking Archaeological Data and Communities
 event_url: https://alexandriaarchive.org/nadac/
 
-location: ''
-address: ''
-  street: ''
-  city: ''
-  region: ''
-  postcode: ''
+location: 
+address: 
+  street: 
+  city: 
+  region: 
+  postcode: 
   country: United States
 
 summary: Workshop for NADAC participants on pathways to collaborate on research projects and publications.
