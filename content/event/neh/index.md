@@ -37,7 +37,7 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: ''
+    name: Follow
     url: https://twitter.com/archaeomap
 url_code: ''
 url_pdf: ''
