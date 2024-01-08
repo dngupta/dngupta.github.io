@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Neha Gupta's website built on Hugo academic.'
+    org_name: 'University of British Columbia'
+    description: 'A website built on Hugo academic.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
