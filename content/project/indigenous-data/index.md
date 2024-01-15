@@ -9,12 +9,12 @@ date: '2022-12-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: ''
+  caption: 'Word cloud of terms in CARE Principles and the Reuse, Sharing, and Curation of Indigenous Data in Canadian Archaeology'
   focal_point: Smart
 
 links: 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1017/aap.2022.33'
 url_slides: ''
 url_video: ''
 
