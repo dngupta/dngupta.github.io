@@ -1,6 +1,6 @@
 ---
 title: Parc Safari Burial Detection
-summary: The project aimed to develop tools and technologies in the detection of clandestine graves at the Parc Safari animal cemetery.
+summary: The project aimed to develop tools and technologies in the detection of clandestine graves at the Parc Safari animal cemetery, and 3-dimensional documentation of graves and occupants.
 tags:
   - Geospatial Digital
 date: '2010-04-27T00:00:00Z'

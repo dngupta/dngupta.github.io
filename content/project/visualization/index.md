@@ -1,6 +1,6 @@
 ---
 title: Visualization of Digital Archaeological Collections
-summary: Visualizations summarize large amounts of digital information and allow the grouping and filtering of data. With visualization tools, archaeologists and community members can interact with digital archaeological information to gain insight into patterns.
+summary: Visualizations summarize large amounts of digital information and allow the grouping and filtering of data. With visualization tools, archaeologists and community members can interact with digital archaeological information to see patterns and gain insight into data collection and curation practices.
 tags:
   - Geospatial Digital
 date: '2020-03-27T00:00:00Z'

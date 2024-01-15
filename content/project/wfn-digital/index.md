@@ -16,7 +16,7 @@ links:
 url_code: ''
 url_pdf: 'http://hdl.handle.net/2429/83410'
 url_slides: ''
-url_video: ''
+url_video: 'https://open.library.ubc.ca/cIRcle/collections/ubclecturesseminarssymposia/67634/items/1.0427249'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

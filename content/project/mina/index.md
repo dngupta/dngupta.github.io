@@ -14,7 +14,7 @@ image:
 
 links: 
 url_code: 'https://github.com/dngupta/mina.github.io'
-url_pdf: ''
+url_pdf: 'https://www.livingmaps.org/s/LMR10_NehaGuptaEtAl.pdf'
 url_slides: ''
 url_video: ''
 

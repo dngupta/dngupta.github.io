@@ -14,7 +14,7 @@ image:
 
 links: 
 url_code: 'https://github.com/o-date/draft'
-url_pdf: ''
+url_pdf: 'https://o-date.github.io/draft/book/#'
 url_slides: ''
 url_video: ''
 
