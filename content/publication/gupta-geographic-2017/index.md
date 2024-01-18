@@ -30,7 +30,16 @@ abstract: Archaeologists are often considered frontrunners in employing spatial 
   create opportunities to visualize, navigate, and assess different sources of information
   within the larger archaeological community, thus enhancing possibilities for collaborative
   research and new forms of critical inquiry.
+project: []
+tags:
+- Source Themes
+featured: true
 links:
 - name: URL
-  url: http://link.springer.com/10.1007/s10816-016-9298-7
+  url: 
+    http://research.library.mun.ca/12144/
+image:
+  caption: 'The conceptualized hierarchy of GIS tasks. The left axis represents prestige and the right axis represents complexity. Visualization is at the bottom of this hierarchy where it is considered simple and has low prestige as an “output” for complex tasks like analysis'
+  focal_point: ""
+  preview_only: true
 ---

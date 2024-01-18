@@ -3,7 +3,7 @@ title: MINA textbar Map Indian Archaeology Opening post-colonial archaeological 
   in the Indian context through Web-based geovisualisation
 authors:
 - Neha Gupta
-- ', S.V Rajesh'
+- S.V. Rajesh
 - Sharmistha Chatterjee
 - G.S. Abhayan
 date: '2021-01-01'
