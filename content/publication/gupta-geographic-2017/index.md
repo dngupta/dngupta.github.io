@@ -9,17 +9,10 @@ publication_types:
 - article-journal
 publication: '*Journal of Archaeological Method and Theory*'
 doi: 10.1007/s10816-016-9298-7
-summary: Since the late 1980s, GIS has mainly been used to support data collection and management
-  as well as spatial analysis and modeling. While fruitful, these efforts have arguably
-  neglected the potential contribution of advanced visualization methods to the generation
-  of broader archaeological knowledge. Greater effort in developing
-  geovisualization and geovisual analytics appropriate for archaeological data can
-  create opportunities to visualize, navigate, and assess different sources of information
-  within the larger archaeological community, thus enhancing possibilities for collaborative
-  research and new forms of critical inquiry.
+summary: Since the late 1980s, GIS has mainly been used to support data collection and management as well as spatial analysis and modeling. While fruitful, these efforts have arguably neglected the potential contribution of advanced visualization methods to the generation of broader archaeological knowledge. Greater effort in developing geovisualization and geovisual analytics appropriate for archaeological data can create opportunities to visualize, navigate, and assess different sources of information within the larger archaeological community, thus enhancing possibilities for collaborative research and new forms of critical inquiry.
 project: []
 tags:
-- Source Themes
+- Geospatial Digital
 featured: true
 links:
 - name: URL

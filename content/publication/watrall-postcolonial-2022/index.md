@@ -10,9 +10,10 @@ publication_types:
 - chapter
 publication: '*Digital Heritage and Archaeology in Practice: Data, Ethics, and Professionalism*'
 doi: 10.5744/florida/9780813069302.003.0012
+summary: We describe and discuss systemic barriers for Indigenous, Black and racialized archaeologists in securing employment and leadership positions in Canadian archaeology and ways to begin addressing these problematic practices.
 project: []
 tags:
-- Source Themes
+- Geospatial Digital
 featured: true
 links:
 - name: URL
