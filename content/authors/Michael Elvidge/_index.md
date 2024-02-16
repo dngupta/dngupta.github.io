@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Michael Elvidge, he/him/his
+title: Michael Elvidge
 
 # Full name (for SEO)
 first_name: Michael
@@ -20,8 +20,6 @@ role: Graduate Student
 organizations:
   - name: University of British Columbia, Okanagan, Interdisciplinary Graduate Studies, Digital Arts and Humanities
     url: ''
-- name: Cabin Resource Management, Heritage Division Manager
-    url: 'https://cabinworks.ca/resource-management/heritage/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Indigenous Data Governance, Digital Archaeology, and Landscape Archaeology and their relationship to commercial archaeological practice. 
@@ -51,6 +49,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:melvidge@student(dot)ubc(dot)ca'
+  - icon: twitter
+    icon_pack: fab
+    link: ''
+  - icon: google-scholar
+    icon_pack: ai
+    link: ''
+  - icon: github
+    icon_pack: fab
+    link: ''
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
