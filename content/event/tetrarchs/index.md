@@ -2,7 +2,7 @@
 title: Building an anti-colonial digital archaeology through FAIR and CARE data governance principles
 
 event: Transforming Data Reuse in Archaeology (TETRARCHs)
-event_url: https://www.tetrarchs.org/
+event_url: https://www.tetrarchs.org/index.php/2024/04/23/building-an-anti-colonial-digital-archaeology-through-fair-and-care-data-governance-principles/
 
 location: 
 address:

@@ -1,5 +1,5 @@
 ---
-title: MINA textbar Map Indian Archaeology Opening post-colonial archaeological research
+title: MINA | Map Indian Archaeology Opening post-colonial archaeological research
   in the Indian context through Web-based geovisualisation
 authors:
 - Neha Gupta
