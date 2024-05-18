@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: Session on Engaging Black and Racialized Descendant Communities with Archaeology and Heritage Projects
 
-event: Engaging Black and Racialized Descendant Communities with Archaeology and Heritage Projects
+event: Canadian Archaeological Association meetings, 2024
 event_url: https://canadianarchaeology.com/caa/annual-meeting/sessions/engaging-black-and-racialized-descendant-communities-archaeology-and
 
 location: Delta Downtown Saskatoon
@@ -17,7 +17,7 @@ abstract: 'The participation of descendant communities is central to the design 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
+date: '2024-05-03T13:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -31,7 +31,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit:'
   focal_point: Right
 
 links:
