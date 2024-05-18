@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-01-01T00:00:00Z'
 
-authors: []
-tags: []
+authors: [Neha Gupta]
+tags: [Data Governance]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -57,6 +57,6 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - []
+  - [Data Governance]
 ---
 

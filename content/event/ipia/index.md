@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2024-01-01T00:00:00Z'
 
 authors: [Neha Gupta]
-tags: [data governance]
+tags: [Data Governance]
 
 # Is this a featured talk? (true/false)
 featured: true
