@@ -1,5 +1,5 @@
 ---
-title: CARE and FAIR in Archaeology
+title: Building an anti-colonial digital archaeology through FAIR and CARE data governance principles
 
 event: Transforming Data Reuse in Archaeology (TETRARCHs)
 event_url: https://www.tetrarchs.org/
@@ -13,7 +13,7 @@ address:
   country: United Kingdom
 
 summary: Invited speaker for Transforming Data Reuse in Archaeology (TETRARCHs) seminar series on "What can data do for us" 
-abstract: ''
+abstract: Growing numbers of archaeologists are interested in implementing data governance principles such as FAIR and CARE in archaeology and digital heritage. The FAIR (Findable, Accessible, Interoperable, Reusable) and CARE (Collective Benefit, Authority to Control, Responsibility, Ethics) data governance principles have the potential to transform the way archaeology is practised. In this talk, I will present research with Westbank First Nation archaeologists that enacts Indigenous Data Governance principles in archaeology and digital heritage, and preliminary research to build FAIR+CARE practices for cultural heritage in American archaeology. I will discuss how contextualizing data practice can help build an anti-colonial digital archaeology.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2024-01-01T00:00:00Z'
 
 authors: [Neha Gupta]
-tags: [data governance]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -42,7 +42,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: https://www.tetrarchs.org/index.php/2024/04/23/building-an-anti-colonial-digital-archaeology-through-fair-and-care-data-governance-principles/
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
