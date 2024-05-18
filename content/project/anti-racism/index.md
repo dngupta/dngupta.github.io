@@ -1,9 +1,9 @@
 ---
 title: Anti-Racism in the Canadian context
-summary: Collaborations make visible racism and race-based discrimination in the Canadian context. 
+summary: Collaborations make visible racism and race-based discrimination in the Canadian context. The first project focuses on the heritage sector, and the second project aims to make visible every day experiences of racial discrimination.
 tags:
   - anti-racism
-date: "2023-09-27T00:00:00Z"
+date: "2023-09-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
