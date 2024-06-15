@@ -4,7 +4,7 @@ title: Community Governance of Heritage Data
 event: Insitute for Prairie and Indigenous Archaeology (IPIA) Speaker Series
 event_url: https://www.ualberta.ca/prairie-indigenous-archaeology/index.html
 
-location: IPIA, University of Alberta
+location: Institute for Prairie and Indigenous Archaeology, University of Alberta
 address:
   street: 
   city: Edmonton
@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2024-01-01T00:00:00Z'
 
 authors: [Neha Gupta]
-tags: [Data Governance]
+tags: [data governance]
 
 # Is this a featured talk? (true/false)
 featured: true

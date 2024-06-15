@@ -17,15 +17,15 @@ abstract: 'The participation of descendant communities is central to the design 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-03T13:00:00Z'
+date: '2024-05-03T10:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-01-01T00:00:00Z'
 
-authors: []
-tags: []
+authors: [Neha Gupta]
+tags: [Anti-racism]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -35,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: ''
-    icon_pack: ''
-    name: ''
-    url: ''
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/archaeomap
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -59,15 +59,3 @@ slides: ""
 projects:
   - Anti-racism
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
