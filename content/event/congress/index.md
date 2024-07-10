@@ -1,5 +1,5 @@
 ---
-title: We See You - A Social Work Application of Critical Race Theory in Digital Mapping of Incidents of Hate and Discrimination
+title: A Social Work Application of Critical Race Theory in Digital Mapping of Incidents of Hate and Discrimination
 
 event: Congress of the Humanities and Social Sciences 2024 Sustaining Shared Futures
 event_url: https://conference.caswe-acfts.ca/
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Canada
 
-summary: Paper on We See You - A Social Work Application of Critical Race Theory in Digital Mapping of Incidents of Hate and Discrimination
+summary: Paper on A Social Work Application of Critical Race Theory in Digital Mapping of Incidents of Hate and Discrimination
 abstract: 'This presentation will showcase a social work application of Critical Race Theory (CRT) and the pursuit of social justice in digital mapping of incidents of hate and discrimination in a western region of Canada. This mapping project emerged from an incident reporting project to collect evidence that racially-motivated discrimination and hate incidents occur, and that these incidents hurt people and community.'
 
 # Talk start and end times.
