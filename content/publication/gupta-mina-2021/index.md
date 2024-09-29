@@ -3,9 +3,9 @@ title: MINA | Map Indian Archaeology Opening post-colonial archaeological resear
   in the Indian context through Web-based geovisualisation
 authors:
 - Neha Gupta
-- S.V. Rajesh
+- Rajesh SV
 - Sharmistha Chatterjee
-- G.S. Abhayan
+- Abhayan GS
 date: '2021-01-01'
 publishDate: '2023-12-30T22:14:57.254875Z'
 publication_types:
