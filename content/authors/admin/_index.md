@@ -72,7 +72,10 @@ social:
     link: https://github.com/dngupta
   - icon: linkedin
     icon_pack: fab
-    link: https://ca.linkedin.com/in/neha-gupta-ph-d-28b53a144 
+    link: https://ca.linkedin.com/in/neha-gupta-ph-d-28b53a144
+  - icon: orcid
+    icon_pack: fab
+    link: http://orcid.org/0000-0002-7086-9719 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -84,5 +87,5 @@ social:
 highlight_name: true
 ---
 
-I am Assistant Professor in Anthropology at The University of British Columbia. My research programme examines and addresses geospatial and digital methods in anti-colonial and Indigenous studies of heritage (including archaeology). My research interests are geovisualization and GIS, place-based heritage, data practice, community governance of data, anti-racism and archaeology in India and Canada. I build and expand on these interests through [DARE | Digital Archaeology Research Environment](https://dare-lab.github.io), a Canada Foundation for Innovation laboratory at UBC Okanagan.
+I am Assistant Professor in Anthropology at The University of British Columbia. My research programme examines and addresses geospatial and digital methods in anti-colonial and Indigenous studies of heritage (including archaeology). My research interests are geovisualization and GIS, place-based heritage, data practice, community governance of data, anti-racism and archaeology in India and Canada. I nurture and grow these interests through [DARE | Digital Archaeology Research Environment](https://dare-lab.github.io), a Canada Foundation for Innovation laboratory at UBC Okanagan.
 {style="text-align: justify;"}
