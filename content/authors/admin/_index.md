@@ -58,7 +58,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:neha(dot)gupta(at)ubc(dot)ca'
-  - icon: twitter
+  - icon: "custom/bluesky"
     icon_pack: fab
     link: https://bsky.app/profile/archaeomap.bsky.social
     label: Follow me on Bluesky
