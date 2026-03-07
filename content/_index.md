@@ -78,8 +78,8 @@ sections:
         2. Introduction to World Archaeology (100-level)
         3. Archaeological Inquiry & Practice (200-level)
         4. Digital Methods in Archaeology & Heritage (300-level)
-        5. Settling Down: An Archaeology of Complex Societies (300-level)
-        6. Applied Anthropology (400-level)
+        5. Settling Down: Archaeology of Complex Societies (300-level)
+        6. Applied Anthropology (digital anthropology; reclaiming; AI and heritage) (400-level)
         7. Introduction to Geographic Information Systems (200-level)
         8. Scientific Applications in Archaeology (400-level)
   - block: portfolio
