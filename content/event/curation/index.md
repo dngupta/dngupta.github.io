@@ -12,7 +12,7 @@ address:
   postcode: 
   country: Canada
 
-summary: Presenter 
+summary: Presenter in Decolonizing Curation Research Cluster, Workshop 3, UBC 
 abstract: In this presentation, I share insights from the FAIR+CARE Cultural Heritage Network, a group working to investigate, develop, demonstrate, and promote more equitable cultural heritage data curation practices. The Network aims to reconcile the apparent social and technical contradictions between two highly regarded data management principles - CARE (collective benefit, authority to control, responsibility, and ethics) and FAIR (findability, accessibility, interoperability, and reuse). I brings these insights into the Canadian context to open conversation on how First Nations can use Indigenous Data Governance principles in archaeology, and how individuals and institutions can implement the FAIR and CARE Principles in their workplaces. 
 
 # Talk start and end times.

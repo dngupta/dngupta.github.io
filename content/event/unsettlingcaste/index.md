@@ -1,6 +1,6 @@
 ---
 title: Unsettling Caste, Power and Belonging on Stolen Land
-date: 2026-02-20
+date: 2026-03-05
 image:
   focal_point: 'top'
 ---
