@@ -1,8 +1,8 @@
 ---
 title: Reconceptualizing Repatriation as the Power to Decide
 authors:
-- Bourgeois, Rebecca L
-- Supernant, Kisha
+- Rebecca Bourgeois
+- Kisha Supernant
 - Neha Gupta
 date: '2025-07-01'
 publishDate: '2025-07-01T22:14:57.287235Z'

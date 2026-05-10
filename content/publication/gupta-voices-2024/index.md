@@ -1,12 +1,12 @@
 ---
 title: In Our Voices Experiences and Perspectives of Black and Racialized Archaeologists in the Canadian Context
 authors:
-- Gupta, Neha
-- Yasui, Emma,
-- Small, Lisa,
-- Wijesinghe, Achinie,
-- Ng, Tommy
-date: '2024-05-09'
+- Neha Gupta
+- Emma Yasui
+- Lisa Small
+- Achinie Wijesinghe
+- Tommy Ng
+date: '2024-12-09'
 publishDate: '2026-05-01T22:14:57.287235Z'
 publication_types:
 - article-journal
