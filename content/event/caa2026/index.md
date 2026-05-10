@@ -35,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: ''
-    icon_pack: ''
-    name: ''
-    url: ''
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://bsky.app/profile/archaeomap.bsky.social
 url_code: ''
 url_pdf: ''
 url_slides: ''

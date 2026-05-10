@@ -17,8 +17,8 @@ abstract: 'In this paper, the authors present ongoing work by the FAIR+CARE Cult
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-05-03T13:00:00Z'
-date_end: '2024-05-03T15:00:00Z'
+date: '2026-05-03T08:00:00Z'
+date_end: '2026-05-03T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -38,7 +38,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/archaeomap
+    url: https://bsky.app/profile/archaeomap.bsky.social
 url_code: ''
 url_pdf: ''
 url_slides: ''
