@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor, Anthropology
+role: Associate Professor, Anthropology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -90,5 +90,5 @@ social:
 highlight_name: true
 ---
 
-I am Assistant Professor in Anthropology at The University of British Columbia. My research programme examines and addresses geospatial and digital methods in anti-colonial and Indigenous studies of heritage (including archaeology). My research interests are geovisualization and GIS, place-based heritage, data practice, community governance of data, anti-racism and archaeology in India and Canada. I grow these interests through [DARE | Digital Archaeology Research Environment](https://dare-lab.github.io), a Canada Foundation for Innovation laboratory at UBC Okanagan.
+I am Associate Professor in Anthropology at The University of British Columbia. My research programme examines and addresses geospatial and digital methods in anti-colonial and Indigenous studies of archaeology and heritage. My research interests are geovisualization and GIS, place-based heritage, data practice, community governance of heritage, anti-racism and archaeology in India and Canada. I cultivate these interests through [DARE | Digital Archaeology Research Environment](https://dare-lab.github.io), a Canada Foundation for Innovation laboratory at UBC Okanagan.
 {style="text-align: justify;"}
